@@ -1188,8 +1188,9 @@
 			}
 		}
 	}
-	
-//-------- ↓↓↓ you can add custom info here ↓↓↓
+
+//=======================================================================
+//=============== 广州增城
 	"zc_m1"
 	{
 		"start_point"		"-9489.070312 9707.517578 1245.214844"
@@ -1200,7 +1201,7 @@
 		"max_distance"		"400"
 		"tank_ban_flow"
 		{
-			"1"
+			"Residential Building"
 			{
 				"min"		"0"
 				"max"		"23"
@@ -1217,7 +1218,7 @@
 		"max_distance"		"600"
 		"ItemLimits"
 		{
-			"pain_pills"	"4"
+			"pain_pills"	"3"
 		}
 	}
 	"zc_m3"
@@ -1247,10 +1248,10 @@
 		}
 		"tank_ban_flow"
 		{
-			"2"
+			"Urban Village"
 			{
-				"min"		"25"
-				"max"		"60"
+				"min"		"0"
+				"max"		"58"
 			}
 		}
 	}
@@ -1260,12 +1261,7 @@
 		"start_dist"		"134.805725"
 		"start_extra_dist"		"218.475693"
 		"max_distance"		"600"
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
 	}
 
 //-------- ↓↓↓ dont delete the closing bracket ↓↓↓
-
 }
