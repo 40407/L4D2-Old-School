@@ -180,6 +180,7 @@
 		"start_extra_dist"	"421.803650"
 		"end_point"			"5675.121582 8443.446289 6142.031250"
 		"end_dist"			"100.000000"
+		"max_distance"		"700"
 		"ItemLimits"
 		{
 			"pain_pills"	"0"
@@ -298,6 +299,7 @@
 		"start_extra_dist"	"317.183868"
 		"end_point"			"3805.135254 -4660.525391 -151.968750"
 		"end_dist"			"795.922058"
+		"max_distance"		"700"
 		"ItemLimits"
 		{
 			"pain_pills"	"0"
@@ -355,6 +357,7 @@
 		"start_extra_dist"	"344.831299"
 		"end_point"			"-5196.772949 9229.695312 -191.968750"
 		"end_dist"			"538.437988"
+		"max_distance"		"700"
 		"ItemLimits"
 		{
 			"pain_pills"	"0"
@@ -429,6 +432,7 @@
 		"start_extra_dist"	"315.198547"
 		"end_point"			"6972.038086 1354.824463 274.312256"
 		"end_dist"			"183.031281"
+		"max_distance"		"700"
 		"ItemLimits"
 		{
 			"pain_pills"	"0"
@@ -673,7 +677,15 @@
 		"start_extra_dist"	"149.953766"
 		"end_point"			"524.056885 10057.031250 -806.850220"
 		"end_dist"			"264.000458"
-		"max_distance"		"600"
+		"max_distance"		"500"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"30"
+				"max"		"100"
+			}
+		}
 	}
 	"l4d2_stadium3_city1"
 	{
@@ -682,7 +694,7 @@
 		"start_extra_dist"	"162.199844"
 		"end_point"			"6849.338867 6643.520020 -390.850189"
 		"end_dist"			"298.808014"
-		"max_distance"		"500"
+		"max_distance"		"600"
 		"tank_ban_flow"
 		{
 			"1"
@@ -716,7 +728,7 @@
 		"start_extra_dist"	"349.691711"
 		"end_point"			"-8753.460938 -3717.820068 407.562927"
 		"end_dist"			"2375.248535"
-		"max_distance"		"700"
+		"max_distance"		"600"
 	}
 
 //=======================================================================
@@ -1170,6 +1182,7 @@
 		"start_extra_dist"	"421.803650"
 		"end_point"			"5603.172363 8436.882813 5944.143555"
 		"end_dist"			"100.000000"
+		"max_distance"		"700"
 		"ItemLimits"
 		{
 			"pain_pills"	"0"
