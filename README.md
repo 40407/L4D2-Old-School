@@ -1,5 +1,17 @@
 # L4D2-Old-School
 ## Make L4D2 like L4D1
+##
+### "MatchModes"
+### {
+### &emsp;"L4D1 Configs"
+### &emsp;{
+### &emsp;&ensp;"oldschool"
+### &emsp;&ensp;{
+### &emsp;&emsp;"name" "Old School 1.1"
+### &emsp;&ensp;}
+### &emsp;}
+### }
+##
 ## 武器：
 ### ① UZI扩散减少，备弹800
 ### ② 木喷扩散4 * 4，弹丸10，伤害25，备弹96
