@@ -1,5 +1,4 @@
-# L4D2-Old-School
-## Make L4D2 like L4D1
+# Old School 1.1 —— Make L4D2 like L4D1
 ### 作者: 40407
 ### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m，Sir
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
