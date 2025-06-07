@@ -1,4 +1,4 @@
-# Old School 1.1 —— Make L4D2 like L4D1
+# Old School 1.2 —— Make L4D2 like L4D1
 ### 作者: 40407
 ### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m，Sir
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
@@ -26,7 +26,7 @@
 ### ③ 坦克6300血
 ## 
 ## 地图：
-### ① 删除c9改的m3刷包
+### ① 删除c9改m3刷包
 ### ② 149m1出门添加两喷两机枪；m5删除了滤镜
 ### ③ 幽灵船和亡灵区m5药4瓶
 ### ④ c8、c10、c11、c12救援全部变为700分
