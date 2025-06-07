@@ -1241,7 +1241,7 @@
 		"start_extra_dist"		"483.717560"
 		"end_point"		"14209.080078 2461.468750 -247.968750"
 		"end_dist"		"307.141418"
-		"max_distance"		"800"	
+		"max_distance"		"700"	
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
@@ -1254,7 +1254,7 @@
 		"start_extra_dist"		"302.986847"
 		"end_point"		"-8949.854492 3466.123779 -42.661865"
 		"end_dist"		"198.560242"
-		"max_distance"		"900"
+		"max_distance"		"800"
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
