@@ -1,4 +1,4 @@
-# Old School 1.2 —— Make L4D2 like L4D1
+# Old School 1.2.1 —— Make L4D2 like L4D1
 ### 作者: 40407
 ### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m，Sir
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
@@ -10,14 +10,14 @@
 ### &emsp;{
 ### &emsp;&ensp;"oldschool"
 ### &emsp;&ensp;{
-### &emsp;&emsp;"name" "Old School 1.2"
+### &emsp;&emsp;"name" "Old School 1.2.1"
 ### &emsp;&ensp;}
 ### &emsp;}
 ### }
 ##
 ## 武器：
-### ① UZI扩散减少，备弹800
-### ② 木喷扩散4 * 4，弹丸10，伤害25，备弹96
+### ① UZI同zm1.9，备弹800
+### ② 木喷扩散同zm铁喷，弹丸10，伤害25，备弹96
 ### ③ 猎枪攻速0.5s/发
 ## 
 ## 特感：
@@ -27,10 +27,11 @@
 ## 
 ## 地图：
 ### ① 删除c9改m3刷包
-### ② 149m1出门添加两喷两机枪；m5删除了滤镜
+### ② 149m1出门添加两喷两机枪；m2删除机关；m4删除ai克；m5删除了滤镜
 ### ③ 幽灵船和亡灵区m5药4瓶
 ### ④ c8、c10、c11、c12救援全部变为700分
 ### ⑤ 闪电突袭m2锁定前置克，路程分600->500；m3路程分500->600；m5路程分700->600
+### ⑥ 广州增城m3删除机关，m5两克
 ## 
 | 支持地图                | 中文名           |
 |-------------------------|------------------|
