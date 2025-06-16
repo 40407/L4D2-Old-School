@@ -10,7 +10,7 @@
 ### &emsp;{
 ### &emsp;&ensp;"oldschool"
 ### &emsp;&ensp;{
-### &emsp;&emsp;"name" "Old School 1.1"
+### &emsp;&emsp;"name" "Old School 1.2"
 ### &emsp;&ensp;}
 ### &emsp;}
 ### }
