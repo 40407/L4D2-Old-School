@@ -1,4 +1,4 @@
-# Old School 1.2.1 —— Make L4D2 like L4D1
+# Old School 1.2.2 —— Make L4D2 like L4D1
 ### 作者: 40407
 ### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m，Sir
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
@@ -10,7 +10,7 @@
 ### &emsp;{
 ### &emsp;&ensp;"oldschool"
 ### &emsp;&ensp;{
-### &emsp;&emsp;"name" "Old School 1.2.1"
+### &emsp;&emsp;"name" "Old School 1.2.2"
 ### &emsp;&ensp;}
 ### &emsp;}
 ### }
@@ -18,7 +18,7 @@
 ## 武器：
 ### ① UZI同zm1.9，备弹800
 ### ② 木喷扩散同zm铁喷，弹丸10，伤害25，备弹96
-### ③ 猎枪攻速0.5s/发
+### ③ 猎枪攻速0.45s/发
 ## 
 ## 特感：
 ### ① 特感池4 hunter, 1 boomer, 1 smoker
