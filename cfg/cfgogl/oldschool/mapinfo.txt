@@ -1276,5 +1276,26 @@
 		"max_distance"		"600"
 	}
 
+//=======================================================================
+//=============== We Don't Go To Ravenholm 我们不去莱温霍姆
+	"l4d2_ravenholmwar_3"
+	{
+		"max_distance"		"700"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"50"
+			}
+		}
+	}
+	"l4d2_ravenholmwar_4"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
 //-------- ↓↓↓ dont delete the closing bracket ↓↓↓
 }
