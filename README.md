@@ -53,3 +53,4 @@
 | Undead Zone             | 亡灵区           |
 | No Mercy Rehab          | C8改             |
 | Guangzhou Zengcheng     | 广州增城         |
+| 我们不去莱温霍姆   | We Don't Go To Ravenholm  |
