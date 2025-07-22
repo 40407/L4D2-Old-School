@@ -3,18 +3,6 @@
 ### 特别鸣谢: Visor, Jahze, ProdigySim, Vintik, CanadaRox, Blade, Tabun, Jacob, Forgetest, A1m，Sir
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
 ##
-### "steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\configs\matchmodes.txt"
-### "MatchModes"
-### {
-### &emsp;"L4D1 Configs"
-### &emsp;{
-### &emsp;&ensp;"oldschool"
-### &emsp;&ensp;{
-### &emsp;&emsp;"name" "Old School 1.2.2"
-### &emsp;&ensp;}
-### &emsp;}
-### }
-##
 ## 武器：
 ### ① UZI同zm1.9，备弹800
 ### ② 木喷扩散同zm铁喷，弹丸10，伤害25，备弹96
